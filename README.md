@@ -2,13 +2,14 @@
 
 ![Main screen](img/DictionaryView.png)
 
- [Click and check it!](https://maciejspalek.github.io/Dictionary/)
+## Live
+
+<https://maciejspalek.github.io/Dictionary/>
 
  ## About the project 
 The application for learning English, allowing you to find word’s definitions, parts of speech and pronunciation in written and audio. It based on dictionary API (www.dictionaryapi.com).
 
-
- ## The project created with 
+## Tech/framework used
  * HTML
  * BEM
  * CSS + SASS
@@ -17,8 +18,14 @@ The application for learning English, allowing you to find word’s definitions,
  * Working with API
 
 
-## Usage
+
+
+## Installation
 
 ```
+git clone https://github.com/MaciejSpalek/Dictionary.git
+
+npm install
+
 npm start
 ```
